@@ -1,1 +1,1 @@
-<p>Memurray!!</p>
+<p class="text-center">Memurray!!</p>
